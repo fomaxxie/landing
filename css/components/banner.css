@@ -1,0 +1,14 @@
+.banner{
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  padding-left: 60px;
+  color:white;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#banner-p{
+  color:rgb(220, 220, 220)
+}
